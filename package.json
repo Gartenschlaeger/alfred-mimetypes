@@ -1,7 +1,0 @@
-{
-  "name": "afred-mime-types-workflow",
-  "version": "1.0.0",
-  "main": "main.js",
-  "keywords": ["alfred", "workflow"],
-  "author": "Kai Gartenschläger"
-}

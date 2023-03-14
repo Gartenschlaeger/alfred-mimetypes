@@ -1,0 +1,32 @@
+name: Build workflow
+
+on:
+    push:
+        branches:
+            - 'main'
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v3
+
+            - name: Install zip
+              run: sudo apt-get install zip
+
+            - name: Create zip file
+              run: zip -rj mimetypes.alfredworkflow src
+
+            - name: Upload artifact
+              uses: actions/upload-artifact@v2
+              with:
+                  name: my-archive
+                  path: my-archive.zip
+
+            - name: Upload artifact
+              uses: actions/upload-artifact@v2
+              with:
+                  name: mimetypes.alfredworkflow
+                  path: mimetypes.alfredworkflow
