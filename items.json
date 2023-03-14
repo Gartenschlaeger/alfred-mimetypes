@@ -1,0 +1,3928 @@
+{
+  "items": [
+    {
+      "title": "123",
+      "subtitle": "application/vnd.lotus-1-2-3"
+    },
+    {
+      "title": "3dml",
+      "subtitle": "text/vnd.in3d.3dml"
+    },
+    {
+      "title": "3ds",
+      "subtitle": "image/x-3ds"
+    },
+    {
+      "title": "3g2",
+      "subtitle": "video/3gpp2"
+    },
+    {
+      "title": "3gp",
+      "subtitle": "video/3gpp"
+    },
+    {
+      "title": "7z",
+      "subtitle": "application/x-7z-compressed"
+    },
+    {
+      "title": "aab",
+      "subtitle": "application/x-authorware-bin"
+    },
+    {
+      "title": "aac",
+      "subtitle": "audio/x-aac"
+    },
+    {
+      "title": "aam",
+      "subtitle": "application/x-authorware-map"
+    },
+    {
+      "title": "aas",
+      "subtitle": "application/x-authorware-seg"
+    },
+    {
+      "title": "abw",
+      "subtitle": "application/x-abiword"
+    },
+    {
+      "title": "ac",
+      "subtitle": "application/pkix-attr-cert"
+    },
+    {
+      "title": "acc",
+      "subtitle": "application/vnd.americandynamics.acc"
+    },
+    {
+      "title": "ace",
+      "subtitle": "application/x-ace-compressed"
+    },
+    {
+      "title": "acu",
+      "subtitle": "application/vnd.acucobol"
+    },
+    {
+      "title": "acutc",
+      "subtitle": "application/vnd.acucorp"
+    },
+    {
+      "title": "adp",
+      "subtitle": "audio/adpcm"
+    },
+    {
+      "title": "aep",
+      "subtitle": "application/vnd.audiograph"
+    },
+    {
+      "title": "afm",
+      "subtitle": "application/x-font-type1"
+    },
+    {
+      "title": "afp",
+      "subtitle": "application/vnd.ibm.modcap"
+    },
+    {
+      "title": "ahead",
+      "subtitle": "application/vnd.ahead.space"
+    },
+    {
+      "title": "ai",
+      "subtitle": "application/postscript"
+    },
+    {
+      "title": "aif",
+      "subtitle": "audio/x-aiff"
+    },
+    {
+      "title": "aifc",
+      "subtitle": "audio/x-aiff"
+    },
+    {
+      "title": "aiff",
+      "subtitle": "audio/x-aiff"
+    },
+    {
+      "title": "air",
+      "subtitle": "application/vnd.adobe.air-application-installer-package+zip"
+    },
+    {
+      "title": "ait",
+      "subtitle": "application/vnd.dvb.ait"
+    },
+    {
+      "title": "ami",
+      "subtitle": "application/vnd.amiga.ami"
+    },
+    {
+      "title": "apk",
+      "subtitle": "application/vnd.android.package-archive"
+    },
+    {
+      "title": "appcache",
+      "subtitle": "text/cache-manifest"
+    },
+    {
+      "title": "application",
+      "subtitle": "application/x-ms-application"
+    },
+    {
+      "title": "apr",
+      "subtitle": "application/vnd.lotus-approach"
+    },
+    {
+      "title": "arc",
+      "subtitle": "application/x-freearc"
+    },
+    {
+      "title": "asc",
+      "subtitle": "application/pgp-signature"
+    },
+    {
+      "title": "asf",
+      "subtitle": "video/x-ms-asf"
+    },
+    {
+      "title": "asm",
+      "subtitle": "text/x-asm"
+    },
+    {
+      "title": "aso",
+      "subtitle": "application/vnd.accpac.simply.aso"
+    },
+    {
+      "title": "asx",
+      "subtitle": "video/x-ms-asf"
+    },
+    {
+      "title": "atc",
+      "subtitle": "application/vnd.acucorp"
+    },
+    {
+      "title": "atom",
+      "subtitle": "application/atom+xml"
+    },
+    {
+      "title": "atomcat",
+      "subtitle": "application/atomcat+xml"
+    },
+    {
+      "title": "atomsvc",
+      "subtitle": "application/atomsvc+xml"
+    },
+    {
+      "title": "atx",
+      "subtitle": "application/vnd.antix.game-component"
+    },
+    {
+      "title": "au",
+      "subtitle": "audio/basic"
+    },
+    {
+      "title": "avi",
+      "subtitle": "video/x-msvideo"
+    },
+    {
+      "title": "aw",
+      "subtitle": "application/applixware"
+    },
+    {
+      "title": "azf",
+      "subtitle": "application/vnd.airzip.filesecure.azf"
+    },
+    {
+      "title": "azs",
+      "subtitle": "application/vnd.airzip.filesecure.azs"
+    },
+    {
+      "title": "azw",
+      "subtitle": "application/vnd.amazon.ebook"
+    },
+    {
+      "title": "bat",
+      "subtitle": "application/x-msdownload"
+    },
+    {
+      "title": "bcpio",
+      "subtitle": "application/x-bcpio"
+    },
+    {
+      "title": "bdf",
+      "subtitle": "application/x-font-bdf"
+    },
+    {
+      "title": "bdm",
+      "subtitle": "application/vnd.syncml.dm+wbxml"
+    },
+    {
+      "title": "bed",
+      "subtitle": "application/vnd.realvnc.bed"
+    },
+    {
+      "title": "bh2",
+      "subtitle": "application/vnd.fujitsu.oasysprs"
+    },
+    {
+      "title": "bin",
+      "subtitle": "application/octet-stream"
+    },
+    {
+      "title": "blb",
+      "subtitle": "application/x-blorb"
+    },
+    {
+      "title": "blorb",
+      "subtitle": "application/x-blorb"
+    },
+    {
+      "title": "bmi",
+      "subtitle": "application/vnd.bmi"
+    },
+    {
+      "title": "bmp",
+      "subtitle": "image/bmp"
+    },
+    {
+      "title": "book",
+      "subtitle": "application/vnd.framemaker"
+    },
+    {
+      "title": "box",
+      "subtitle": "application/vnd.previewsystems.box"
+    },
+    {
+      "title": "boz",
+      "subtitle": "application/x-bzip2"
+    },
+    {
+      "title": "bpk",
+      "subtitle": "application/octet-stream"
+    },
+    {
+      "title": "btif",
+      "subtitle": "image/prs.btif"
+    },
+    {
+      "title": "bz",
+      "subtitle": "application/x-bzip"
+    },
+    {
+      "title": "bz2",
+      "subtitle": "application/x-bzip2"
+    },
+    {
+      "title": "c",
+      "subtitle": "text/x-c"
+    },
+    {
+      "title": "c11amc",
+      "subtitle": "application/vnd.cluetrust.cartomobile-config"
+    },
+    {
+      "title": "c11amz",
+      "subtitle": "application/vnd.cluetrust.cartomobile-config-pkg"
+    },
+    {
+      "title": "c4d",
+      "subtitle": "application/vnd.clonk.c4group"
+    },
+    {
+      "title": "c4f",
+      "subtitle": "application/vnd.clonk.c4group"
+    },
+    {
+      "title": "c4g",
+      "subtitle": "application/vnd.clonk.c4group"
+    },
+    {
+      "title": "c4p",
+      "subtitle": "application/vnd.clonk.c4group"
+    },
+    {
+      "title": "c4u",
+      "subtitle": "application/vnd.clonk.c4group"
+    },
+    {
+      "title": "cab",
+      "subtitle": "application/vnd.ms-cab-compressed"
+    },
+    {
+      "title": "caf",
+      "subtitle": "audio/x-caf"
+    },
+    {
+      "title": "cap",
+      "subtitle": "application/vnd.tcpdump.pcap"
+    },
+    {
+      "title": "car",
+      "subtitle": "application/vnd.curl.car"
+    },
+    {
+      "title": "cat",
+      "subtitle": "application/vnd.ms-pki.seccat"
+    },
+    {
+      "title": "cb7",
+      "subtitle": "application/x-cbr"
+    },
+    {
+      "title": "cba",
+      "subtitle": "application/x-cbr"
+    },
+    {
+      "title": "cbr",
+      "subtitle": "application/x-cbr"
+    },
+    {
+      "title": "cbt",
+      "subtitle": "application/x-cbr"
+    },
+    {
+      "title": "cbz",
+      "subtitle": "application/x-cbr"
+    },
+    {
+      "title": "cc",
+      "subtitle": "text/x-c"
+    },
+    {
+      "title": "cct",
+      "subtitle": "application/x-director"
+    },
+    {
+      "title": "ccxml",
+      "subtitle": "application/ccxml+xml"
+    },
+    {
+      "title": "cdbcmsg",
+      "subtitle": "application/vnd.contact.cmsg"
+    },
+    {
+      "title": "cdf",
+      "subtitle": "application/x-netcdf"
+    },
+    {
+      "title": "cdkey",
+      "subtitle": "application/vnd.mediastation.cdkey"
+    },
+    {
+      "title": "cdmia",
+      "subtitle": "application/cdmi-capability"
+    },
+    {
+      "title": "cdmic",
+      "subtitle": "application/cdmi-container"
+    },
+    {
+      "title": "cdmid",
+      "subtitle": "application/cdmi-domain"
+    },
+    {
+      "title": "cdmio",
+      "subtitle": "application/cdmi-object"
+    },
+    {
+      "title": "cdmiq",
+      "subtitle": "application/cdmi-queue"
+    },
+    {
+      "title": "cdx",
+      "subtitle": "chemical/x-cdx"
+    },
+    {
+      "title": "cdxml",
+      "subtitle": "application/vnd.chemdraw+xml"
+    },
+    {
+      "title": "cdy",
+      "subtitle": "application/vnd.cinderella"
+    },
+    {
+      "title": "cer",
+      "subtitle": "application/pkix-cert"
+    },
+    {
+      "title": "cfs",
+      "subtitle": "application/x-cfs-compressed"
+    },
+    {
+      "title": "cgm",
+      "subtitle": "image/cgm"
+    },
+    {
+      "title": "chat",
+      "subtitle": "application/x-chat"
+    },
+    {
+      "title": "chm",
+      "subtitle": "application/vnd.ms-htmlhelp"
+    },
+    {
+      "title": "chrt",
+      "subtitle": "application/vnd.kde.kchart"
+    },
+    {
+      "title": "cif",
+      "subtitle": "chemical/x-cif"
+    },
+    {
+      "title": "cii",
+      "subtitle": "application/vnd.anser-web-certificate-issue-initiation"
+    },
+    {
+      "title": "cil",
+      "subtitle": "application/vnd.ms-artgalry"
+    },
+    {
+      "title": "cla",
+      "subtitle": "application/vnd.claymore"
+    },
+    {
+      "title": "class",
+      "subtitle": "application/java-vm"
+    },
+    {
+      "title": "clkk",
+      "subtitle": "application/vnd.crick.clicker.keyboard"
+    },
+    {
+      "title": "clkp",
+      "subtitle": "application/vnd.crick.clicker.palette"
+    },
+    {
+      "title": "clkt",
+      "subtitle": "application/vnd.crick.clicker.template"
+    },
+    {
+      "title": "clkw",
+      "subtitle": "application/vnd.crick.clicker.wordbank"
+    },
+    {
+      "title": "clkx",
+      "subtitle": "application/vnd.crick.clicker"
+    },
+    {
+      "title": "clp",
+      "subtitle": "application/x-msclip"
+    },
+    {
+      "title": "cmc",
+      "subtitle": "application/vnd.cosmocaller"
+    },
+    {
+      "title": "cmdf",
+      "subtitle": "chemical/x-cmdf"
+    },
+    {
+      "title": "cml",
+      "subtitle": "chemical/x-cml"
+    },
+    {
+      "title": "cmp",
+      "subtitle": "application/vnd.yellowriver-custom-menu"
+    },
+    {
+      "title": "cmx",
+      "subtitle": "image/x-cmx"
+    },
+    {
+      "title": "cod",
+      "subtitle": "application/vnd.rim.cod"
+    },
+    {
+      "title": "com",
+      "subtitle": "application/x-msdownload"
+    },
+    {
+      "title": "conf",
+      "subtitle": "text/plain"
+    },
+    {
+      "title": "cpio",
+      "subtitle": "application/x-cpio"
+    },
+    {
+      "title": "cpp",
+      "subtitle": "text/x-c"
+    },
+    {
+      "title": "cpt",
+      "subtitle": "application/mac-compactpro"
+    },
+    {
+      "title": "crd",
+      "subtitle": "application/x-mscardfile"
+    },
+    {
+      "title": "crl",
+      "subtitle": "application/pkix-crl"
+    },
+    {
+      "title": "crt",
+      "subtitle": "application/x-x509-ca-cert"
+    },
+    {
+      "title": "cryptonote",
+      "subtitle": "application/vnd.rig.cryptonote"
+    },
+    {
+      "title": "csh",
+      "subtitle": "application/x-csh"
+    },
+    {
+      "title": "csml",
+      "subtitle": "chemical/x-csml"
+    },
+    {
+      "title": "csp",
+      "subtitle": "application/vnd.commonspace"
+    },
+    {
+      "title": "css",
+      "subtitle": "text/css"
+    },
+    {
+      "title": "cst",
+      "subtitle": "application/x-director"
+    },
+    {
+      "title": "csv",
+      "subtitle": "text/csv"
+    },
+    {
+      "title": "cu",
+      "subtitle": "application/cu-seeme"
+    },
+    {
+      "title": "curl",
+      "subtitle": "text/vnd.curl"
+    },
+    {
+      "title": "cww",
+      "subtitle": "application/prs.cww"
+    },
+    {
+      "title": "cxt",
+      "subtitle": "application/x-director"
+    },
+    {
+      "title": "cxx",
+      "subtitle": "text/x-c"
+    },
+    {
+      "title": "dae",
+      "subtitle": "model/vnd.collada+xml"
+    },
+    {
+      "title": "daf",
+      "subtitle": "application/vnd.mobius.daf"
+    },
+    {
+      "title": "dart",
+      "subtitle": "application/vnd.dart"
+    },
+    {
+      "title": "dataless",
+      "subtitle": "application/vnd.fdsn.seed"
+    },
+    {
+      "title": "davmount",
+      "subtitle": "application/davmount+xml"
+    },
+    {
+      "title": "dbk",
+      "subtitle": "application/docbook+xml"
+    },
+    {
+      "title": "dcr",
+      "subtitle": "application/x-director"
+    },
+    {
+      "title": "dcurl",
+      "subtitle": "text/vnd.curl.dcurl"
+    },
+    {
+      "title": "dd2",
+      "subtitle": "application/vnd.oma.dd2+xml"
+    },
+    {
+      "title": "ddd",
+      "subtitle": "application/vnd.fujixerox.ddd"
+    },
+    {
+      "title": "deb",
+      "subtitle": "application/x-debian-package"
+    },
+    {
+      "title": "def",
+      "subtitle": "text/plain"
+    },
+    {
+      "title": "deploy",
+      "subtitle": "application/octet-stream"
+    },
+    {
+      "title": "der",
+      "subtitle": "application/x-x509-ca-cert"
+    },
+    {
+      "title": "dfac",
+      "subtitle": "application/vnd.dreamfactory"
+    },
+    {
+      "title": "dgc",
+      "subtitle": "application/x-dgc-compressed"
+    },
+    {
+      "title": "dic",
+      "subtitle": "text/x-c"
+    },
+    {
+      "title": "dir",
+      "subtitle": "application/x-director"
+    },
+    {
+      "title": "dis",
+      "subtitle": "application/vnd.mobius.dis"
+    },
+    {
+      "title": "dist",
+      "subtitle": "application/octet-stream"
+    },
+    {
+      "title": "distz",
+      "subtitle": "application/octet-stream"
+    },
+    {
+      "title": "djv",
+      "subtitle": "image/vnd.djvu"
+    },
+    {
+      "title": "djvu",
+      "subtitle": "image/vnd.djvu"
+    },
+    {
+      "title": "dll",
+      "subtitle": "application/x-msdownload"
+    },
+    {
+      "title": "dmg",
+      "subtitle": "application/x-apple-diskimage"
+    },
+    {
+      "title": "dmp",
+      "subtitle": "application/vnd.tcpdump.pcap"
+    },
+    {
+      "title": "dms",
+      "subtitle": "application/octet-stream"
+    },
+    {
+      "title": "dna",
+      "subtitle": "application/vnd.dna"
+    },
+    {
+      "title": "doc",
+      "subtitle": "application/msword"
+    },
+    {
+      "title": "docm",
+      "subtitle": "application/vnd.ms-word.document.macroenabled.12"
+    },
+    {
+      "title": "docx",
+      "subtitle": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "title": "dot",
+      "subtitle": "application/msword"
+    },
+    {
+      "title": "dotm",
+      "subtitle": "application/vnd.ms-word.template.macroenabled.12"
+    },
+    {
+      "title": "dotx",
+      "subtitle": "application/vnd.openxmlformats-officedocument.wordprocessingml.template"
+    },
+    {
+      "title": "dp",
+      "subtitle": "application/vnd.osgi.dp"
+    },
+    {
+      "title": "dpg",
+      "subtitle": "application/vnd.dpgraph"
+    },
+    {
+      "title": "dra",
+      "subtitle": "audio/vnd.dra"
+    },
+    {
+      "title": "dsc",
+      "subtitle": "text/prs.lines.tag"
+    },
+    {
+      "title": "dssc",
+      "subtitle": "application/dssc+der"
+    },
+    {
+      "title": "dtb",
+      "subtitle": "application/x-dtbook+xml"
+    },
+    {
+      "title": "dtd",
+      "subtitle": "application/xml-dtd"
+    },
+    {
+      "title": "dts",
+      "subtitle": "audio/vnd.dts"
+    },
+    {
+      "title": "dtshd",
+      "subtitle": "audio/vnd.dts.hd"
+    },
+    {
+      "title": "dump",
+      "subtitle": "application/octet-stream"
+    },
+    {
+      "title": "dvb",
+      "subtitle": "video/vnd.dvb.file"
+    },
+    {
+      "title": "dvi",
+      "subtitle": "application/x-dvi"
+    },
+    {
+      "title": "dwf",
+      "subtitle": "model/vnd.dwf"
+    },
+    {
+      "title": "dwg",
+      "subtitle": "image/vnd.dwg"
+    },
+    {
+      "title": "dxf",
+      "subtitle": "image/vnd.dxf"
+    },
+    {
+      "title": "dxp",
+      "subtitle": "application/vnd.spotfire.dxp"
+    },
+    {
+      "title": "dxr",
+      "subtitle": "application/x-director"
+    },
+    {
+      "title": "ecelp4800",
+      "subtitle": "audio/vnd.nuera.ecelp4800"
+    },
+    {
+      "title": "ecelp7470",
+      "subtitle": "audio/vnd.nuera.ecelp7470"
+    },
+    {
+      "title": "ecelp9600",
+      "subtitle": "audio/vnd.nuera.ecelp9600"
+    },
+    {
+      "title": "ecma",
+      "subtitle": "application/ecmascript"
+    },
+    {
+      "title": "edm",
+      "subtitle": "application/vnd.novadigm.edm"
+    },
+    {
+      "title": "edx",
+      "subtitle": "application/vnd.novadigm.edx"
+    },
+    {
+      "title": "efif",
+      "subtitle": "application/vnd.picsel"
+    },
+    {
+      "title": "ei6",
+      "subtitle": "application/vnd.pg.osasli"
+    },
+    {
+      "title": "elc",
+      "subtitle": "application/octet-stream"
+    },
+    {
+      "title": "emf",
+      "subtitle": "application/x-msmetafile"
+    },
+    {
+      "title": "eml",
+      "subtitle": "message/rfc822"
+    },
+    {
+      "title": "emma",
+      "subtitle": "application/emma+xml"
+    },
+    {
+      "title": "emz",
+      "subtitle": "application/x-msmetafile"
+    },
+    {
+      "title": "eol",
+      "subtitle": "audio/vnd.digital-winds"
+    },
+    {
+      "title": "eot",
+      "subtitle": "application/vnd.ms-fontobject"
+    },
+    {
+      "title": "eps",
+      "subtitle": "application/postscript"
+    },
+    {
+      "title": "epub",
+      "subtitle": "application/epub+zip"
+    },
+    {
+      "title": "es3",
+      "subtitle": "application/vnd.eszigno3+xml"
+    },
+    {
+      "title": "esa",
+      "subtitle": "application/vnd.osgi.subsystem"
+    },
+    {
+      "title": "esf",
+      "subtitle": "application/vnd.epson.esf"
+    },
+    {
+      "title": "et3",
+      "subtitle": "application/vnd.eszigno3+xml"
+    },
+    {
+      "title": "etx",
+      "subtitle": "text/x-setext"
+    },
+    {
+      "title": "eva",
+      "subtitle": "application/x-eva"
+    },
+    {
+      "title": "evy",
+      "subtitle": "application/x-envoy"
+    },
+    {
+      "title": "exe",
+      "subtitle": "application/x-msdownload"
+    },
+    {
+      "title": "exi",
+      "subtitle": "application/exi"
+    },
+    {
+      "title": "ext",
+      "subtitle": "application/vnd.novadigm.ext"
+    },
+    {
+      "title": "ez",
+      "subtitle": "application/andrew-inset"
+    },
+    {
+      "title": "ez2",
+      "subtitle": "application/vnd.ezpix-album"
+    },
+    {
+      "title": "ez3",
+      "subtitle": "application/vnd.ezpix-package"
+    },
+    {
+      "title": "f",
+      "subtitle": "text/x-fortran"
+    },
+    {
+      "title": "f4v",
+      "subtitle": "video/x-f4v"
+    },
+    {
+      "title": "f77",
+      "subtitle": "text/x-fortran"
+    },
+    {
+      "title": "f90",
+      "subtitle": "text/x-fortran"
+    },
+    {
+      "title": "fbs",
+      "subtitle": "image/vnd.fastbidsheet"
+    },
+    {
+      "title": "fcdt",
+      "subtitle": "application/vnd.adobe.formscentral.fcdt"
+    },
+    {
+      "title": "fcs",
+      "subtitle": "application/vnd.isac.fcs"
+    },
+    {
+      "title": "fdf",
+      "subtitle": "application/vnd.fdf"
+    },
+    {
+      "title": "fe_launch",
+      "subtitle": "application/vnd.denovo.fcselayout-link"
+    },
+    {
+      "title": "fg5",
+      "subtitle": "application/vnd.fujitsu.oasysgp"
+    },
+    {
+      "title": "fgd",
+      "subtitle": "application/x-director"
+    },
+    {
+      "title": "fh",
+      "subtitle": "image/x-freehand"
+    },
+    {
+      "title": "fh4",
+      "subtitle": "image/x-freehand"
+    },
+    {
+      "title": "fh5",
+      "subtitle": "image/x-freehand"
+    },
+    {
+      "title": "fh7",
+      "subtitle": "image/x-freehand"
+    },
+    {
+      "title": "fhc",
+      "subtitle": "image/x-freehand"
+    },
+    {
+      "title": "fig",
+      "subtitle": "application/x-xfig"
+    },
+    {
+      "title": "flac",
+      "subtitle": "audio/x-flac"
+    },
+    {
+      "title": "fli",
+      "subtitle": "video/x-fli"
+    },
+    {
+      "title": "flo",
+      "subtitle": "application/vnd.micrografx.flo"
+    },
+    {
+      "title": "flv",
+      "subtitle": "video/x-flv"
+    },
+    {
+      "title": "flw",
+      "subtitle": "application/vnd.kde.kivio"
+    },
+    {
+      "title": "flx",
+      "subtitle": "text/vnd.fmi.flexstor"
+    },
+    {
+      "title": "fly",
+      "subtitle": "text/vnd.fly"
+    },
+    {
+      "title": "fm",
+      "subtitle": "application/vnd.framemaker"
+    },
+    {
+      "title": "fnc",
+      "subtitle": "application/vnd.frogans.fnc"
+    },
+    {
+      "title": "for",
+      "subtitle": "text/x-fortran"
+    },
+    {
+      "title": "fpx",
+      "subtitle": "image/vnd.fpx"
+    },
+    {
+      "title": "frame",
+      "subtitle": "application/vnd.framemaker"
+    },
+    {
+      "title": "fsc",
+      "subtitle": "application/vnd.fsc.weblaunch"
+    },
+    {
+      "title": "fst",
+      "subtitle": "image/vnd.fst"
+    },
+    {
+      "title": "ftc",
+      "subtitle": "application/vnd.fluxtime.clip"
+    },
+    {
+      "title": "fti",
+      "subtitle": "application/vnd.anser-web-funds-transfer-initiation"
+    },
+    {
+      "title": "fvt",
+      "subtitle": "video/vnd.fvt"
+    },
+    {
+      "title": "fxp",
+      "subtitle": "application/vnd.adobe.fxp"
+    },
+    {
+      "title": "fxpl",
+      "subtitle": "application/vnd.adobe.fxp"
+    },
+    {
+      "title": "fzs",
+      "subtitle": "application/vnd.fuzzysheet"
+    },
+    {
+      "title": "g2w",
+      "subtitle": "application/vnd.geoplan"
+    },
+    {
+      "title": "g3",
+      "subtitle": "image/g3fax"
+    },
+    {
+      "title": "g3w",
+      "subtitle": "application/vnd.geospace"
+    },
+    {
+      "title": "gac",
+      "subtitle": "application/vnd.groove-account"
+    },
+    {
+      "title": "gam",
+      "subtitle": "application/x-tads"
+    },
+    {
+      "title": "gbr",
+      "subtitle": "application/rpki-ghostbusters"
+    },
+    {
+      "title": "gca",
+      "subtitle": "application/x-gca-compressed"
+    },
+    {
+      "title": "gdl",
+      "subtitle": "model/vnd.gdl"
+    },
+    {
+      "title": "geo",
+      "subtitle": "application/vnd.dynageo"
+    },
+    {
+      "title": "gex",
+      "subtitle": "application/vnd.geometry-explorer"
+    },
+    {
+      "title": "ggb",
+      "subtitle": "application/vnd.geogebra.file"
+    },
+    {
+      "title": "ggt",
+      "subtitle": "application/vnd.geogebra.tool"
+    },
+    {
+      "title": "ghf",
+      "subtitle": "application/vnd.groove-help"
+    },
+    {
+      "title": "gif",
+      "subtitle": "image/gif"
+    },
+    {
+      "title": "gim",
+      "subtitle": "application/vnd.groove-identity-message"
+    },
+    {
+      "title": "gml",
+      "subtitle": "application/gml+xml"
+    },
+    {
+      "title": "gmx",
+      "subtitle": "application/vnd.gmx"
+    },
+    {
+      "title": "gnumeric",
+      "subtitle": "application/x-gnumeric"
+    },
+    {
+      "title": "gph",
+      "subtitle": "application/vnd.flographit"
+    },
+    {
+      "title": "gpx",
+      "subtitle": "application/gpx+xml"
+    },
+    {
+      "title": "gqf",
+      "subtitle": "application/vnd.grafeq"
+    },
+    {
+      "title": "gqs",
+      "subtitle": "application/vnd.grafeq"
+    },
+    {
+      "title": "gram",
+      "subtitle": "application/srgs"
+    },
+    {
+      "title": "gramps",
+      "subtitle": "application/x-gramps-xml"
+    },
+    {
+      "title": "gre",
+      "subtitle": "application/vnd.geometry-explorer"
+    },
+    {
+      "title": "grv",
+      "subtitle": "application/vnd.groove-injector"
+    },
+    {
+      "title": "grxml",
+      "subtitle": "application/srgs+xml"
+    },
+    {
+      "title": "gsf",
+      "subtitle": "application/x-font-ghostscript"
+    },
+    {
+      "title": "gtar",
+      "subtitle": "application/x-gtar"
+    },
+    {
+      "title": "gtm",
+      "subtitle": "application/vnd.groove-tool-message"
+    },
+    {
+      "title": "gtw",
+      "subtitle": "model/vnd.gtw"
+    },
+    {
+      "title": "gv",
+      "subtitle": "text/vnd.graphviz"
+    },
+    {
+      "title": "gxf",
+      "subtitle": "application/gxf"
+    },
+    {
+      "title": "gxt",
+      "subtitle": "application/vnd.geonext"
+    },
+    {
+      "title": "h",
+      "subtitle": "text/x-c"
+    },
+    {
+      "title": "h261",
+      "subtitle": "video/h261"
+    },
+    {
+      "title": "h263",
+      "subtitle": "video/h263"
+    },
+    {
+      "title": "h264",
+      "subtitle": "video/h264"
+    },
+    {
+      "title": "hal",
+      "subtitle": "application/vnd.hal+xml"
+    },
+    {
+      "title": "hbci",
+      "subtitle": "application/vnd.hbci"
+    },
+    {
+      "title": "hdf",
+      "subtitle": "application/x-hdf"
+    },
+    {
+      "title": "hh",
+      "subtitle": "text/x-c"
+    },
+    {
+      "title": "hlp",
+      "subtitle": "application/winhlp"
+    },
+    {
+      "title": "hpgl",
+      "subtitle": "application/vnd.hp-hpgl"
+    },
+    {
+      "title": "hpid",
+      "subtitle": "application/vnd.hp-hpid"
+    },
+    {
+      "title": "hps",
+      "subtitle": "application/vnd.hp-hps"
+    },
+    {
+      "title": "hqx",
+      "subtitle": "application/mac-binhex40"
+    },
+    {
+      "title": "htke",
+      "subtitle": "application/vnd.kenameaapp"
+    },
+    {
+      "title": "htm",
+      "subtitle": "text/html"
+    },
+    {
+      "title": "html",
+      "subtitle": "text/html"
+    },
+    {
+      "title": "hvd",
+      "subtitle": "application/vnd.yamaha.hv-dic"
+    },
+    {
+      "title": "hvp",
+      "subtitle": "application/vnd.yamaha.hv-voice"
+    },
+    {
+      "title": "hvs",
+      "subtitle": "application/vnd.yamaha.hv-script"
+    },
+    {
+      "title": "i2g",
+      "subtitle": "application/vnd.intergeo"
+    },
+    {
+      "title": "icc",
+      "subtitle": "application/vnd.iccprofile"
+    },
+    {
+      "title": "ice",
+      "subtitle": "x-conference/x-cooltalk"
+    },
+    {
+      "title": "icm",
+      "subtitle": "application/vnd.iccprofile"
+    },
+    {
+      "title": "ico",
+      "subtitle": "image/x-icon"
+    },
+    {
+      "title": "ics",
+      "subtitle": "text/calendar"
+    },
+    {
+      "title": "ief",
+      "subtitle": "image/ief"
+    },
+    {
+      "title": "ifb",
+      "subtitle": "text/calendar"
+    },
+    {
+      "title": "ifm",
+      "subtitle": "application/vnd.shana.informed.formdata"
+    },
+    {
+      "title": "iges",
+      "subtitle": "model/iges"
+    },
+    {
+      "title": "igl",
+      "subtitle": "application/vnd.igloader"
+    },
+    {
+      "title": "igm",
+      "subtitle": "application/vnd.insors.igm"
+    },
+    {
+      "title": "igs",
+      "subtitle": "model/iges"
+    },
+    {
+      "title": "igx",
+      "subtitle": "application/vnd.micrografx.igx"
+    },
+    {
+      "title": "iif",
+      "subtitle": "application/vnd.shana.informed.interchange"
+    },
+    {
+      "title": "imp",
+      "subtitle": "application/vnd.accpac.simply.imp"
+    },
+    {
+      "title": "ims",
+      "subtitle": "application/vnd.ms-ims"
+    },
+    {
+      "title": "in",
+      "subtitle": "text/plain"
+    },
+    {
+      "title": "ink",
+      "subtitle": "application/inkml+xml"
+    },
+    {
+      "title": "inkml",
+      "subtitle": "application/inkml+xml"
+    },
+    {
+      "title": "install",
+      "subtitle": "application/x-install-instructions"
+    },
+    {
+      "title": "iota",
+      "subtitle": "application/vnd.astraea-software.iota"
+    },
+    {
+      "title": "ipfix",
+      "subtitle": "application/ipfix"
+    },
+    {
+      "title": "ipk",
+      "subtitle": "application/vnd.shana.informed.package"
+    },
+    {
+      "title": "irm",
+      "subtitle": "application/vnd.ibm.rights-management"
+    },
+    {
+      "title": "irp",
+      "subtitle": "application/vnd.irepository.package+xml"
+    },
+    {
+      "title": "iso",
+      "subtitle": "application/x-iso9660-image"
+    },
+    {
+      "title": "itp",
+      "subtitle": "application/vnd.shana.informed.formtemplate"
+    },
+    {
+      "title": "ivp",
+      "subtitle": "application/vnd.immervision-ivp"
+    },
+    {
+      "title": "ivu",
+      "subtitle": "application/vnd.immervision-ivu"
+    },
+    {
+      "title": "jad",
+      "subtitle": "text/vnd.sun.j2me.app-descriptor"
+    },
+    {
+      "title": "jam",
+      "subtitle": "application/vnd.jam"
+    },
+    {
+      "title": "jar",
+      "subtitle": "application/java-archive"
+    },
+    {
+      "title": "java",
+      "subtitle": "text/x-java-source"
+    },
+    {
+      "title": "jisp",
+      "subtitle": "application/vnd.jisp"
+    },
+    {
+      "title": "jlt",
+      "subtitle": "application/vnd.hp-jlyt"
+    },
+    {
+      "title": "jnlp",
+      "subtitle": "application/x-java-jnlp-file"
+    },
+    {
+      "title": "joda",
+      "subtitle": "application/vnd.joost.joda-archive"
+    },
+    {
+      "title": "jpe",
+      "subtitle": "image/jpeg"
+    },
+    {
+      "title": "jpeg",
+      "subtitle": "image/jpeg"
+    },
+    {
+      "title": "jpg",
+      "subtitle": "image/jpeg"
+    },
+    {
+      "title": "jpgm",
+      "subtitle": "video/jpm"
+    },
+    {
+      "title": "jpgv",
+      "subtitle": "video/jpeg"
+    },
+    {
+      "title": "jpm",
+      "subtitle": "video/jpm"
+    },
+    {
+      "title": "js",
+      "subtitle": "application/javascript"
+    },
+    {
+      "title": "json",
+      "subtitle": "application/json"
+    },
+    {
+      "title": "jsonml",
+      "subtitle": "application/jsonml+json"
+    },
+    {
+      "title": "kar",
+      "subtitle": "audio/midi"
+    },
+    {
+      "title": "karbon",
+      "subtitle": "application/vnd.kde.karbon"
+    },
+    {
+      "title": "kfo",
+      "subtitle": "application/vnd.kde.kformula"
+    },
+    {
+      "title": "kia",
+      "subtitle": "application/vnd.kidspiration"
+    },
+    {
+      "title": "kml",
+      "subtitle": "application/vnd.google-earth.kml+xml"
+    },
+    {
+      "title": "kmz",
+      "subtitle": "application/vnd.google-earth.kmz"
+    },
+    {
+      "title": "kne",
+      "subtitle": "application/vnd.kinar"
+    },
+    {
+      "title": "knp",
+      "subtitle": "application/vnd.kinar"
+    },
+    {
+      "title": "kon",
+      "subtitle": "application/vnd.kde.kontour"
+    },
+    {
+      "title": "kpr",
+      "subtitle": "application/vnd.kde.kpresenter"
+    },
+    {
+      "title": "kpt",
+      "subtitle": "application/vnd.kde.kpresenter"
+    },
+    {
+      "title": "kpxx",
+      "subtitle": "application/vnd.ds-keypoint"
+    },
+    {
+      "title": "ksp",
+      "subtitle": "application/vnd.kde.kspread"
+    },
+    {
+      "title": "ktr",
+      "subtitle": "application/vnd.kahootz"
+    },
+    {
+      "title": "ktx",
+      "subtitle": "image/ktx"
+    },
+    {
+      "title": "ktz",
+      "subtitle": "application/vnd.kahootz"
+    },
+    {
+      "title": "kwd",
+      "subtitle": "application/vnd.kde.kword"
+    },
+    {
+      "title": "kwt",
+      "subtitle": "application/vnd.kde.kword"
+    },
+    {
+      "title": "lasxml",
+      "subtitle": "application/vnd.las.las+xml"
+    },
+    {
+      "title": "latex",
+      "subtitle": "application/x-latex"
+    },
+    {
+      "title": "lbd",
+      "subtitle": "application/vnd.llamagraphics.life-balance.desktop"
+    },
+    {
+      "title": "lbe",
+      "subtitle": "application/vnd.llamagraphics.life-balance.exchange+xml"
+    },
+    {
+      "title": "les",
+      "subtitle": "application/vnd.hhe.lesson-player"
+    },
+    {
+      "title": "lha",
+      "subtitle": "application/x-lzh-compressed"
+    },
+    {
+      "title": "link66",
+      "subtitle": "application/vnd.route66.link66+xml"
+    },
+    {
+      "title": "list",
+      "subtitle": "text/plain"
+    },
+    {
+      "title": "list3820",
+      "subtitle": "application/vnd.ibm.modcap"
+    },
+    {
+      "title": "listafp",
+      "subtitle": "application/vnd.ibm.modcap"
+    },
+    {
+      "title": "lnk",
+      "subtitle": "application/x-ms-shortcut"
+    },
+    {
+      "title": "log",
+      "subtitle": "text/plain"
+    },
+    {
+      "title": "lostxml",
+      "subtitle": "application/lost+xml"
+    },
+    {
+      "title": "lrf",
+      "subtitle": "application/octet-stream"
+    },
+    {
+      "title": "lrm",
+      "subtitle": "application/vnd.ms-lrm"
+    },
+    {
+      "title": "ltf",
+      "subtitle": "application/vnd.frogans.ltf"
+    },
+    {
+      "title": "lvp",
+      "subtitle": "audio/vnd.lucent.voice"
+    },
+    {
+      "title": "lwp",
+      "subtitle": "application/vnd.lotus-wordpro"
+    },
+    {
+      "title": "lzh",
+      "subtitle": "application/x-lzh-compressed"
+    },
+    {
+      "title": "m13",
+      "subtitle": "application/x-msmediaview"
+    },
+    {
+      "title": "m14",
+      "subtitle": "application/x-msmediaview"
+    },
+    {
+      "title": "m1v",
+      "subtitle": "video/mpeg"
+    },
+    {
+      "title": "m21",
+      "subtitle": "application/mp21"
+    },
+    {
+      "title": "m2a",
+      "subtitle": "audio/mpeg"
+    },
+    {
+      "title": "m2v",
+      "subtitle": "video/mpeg"
+    },
+    {
+      "title": "m3a",
+      "subtitle": "audio/mpeg"
+    },
+    {
+      "title": "m3u",
+      "subtitle": "audio/x-mpegurl"
+    },
+    {
+      "title": "m3u8",
+      "subtitle": "application/vnd.apple.mpegurl"
+    },
+    {
+      "title": "m4a",
+      "subtitle": "audio/mp4"
+    },
+    {
+      "title": "m4u",
+      "subtitle": "video/vnd.mpegurl"
+    },
+    {
+      "title": "m4v",
+      "subtitle": "video/x-m4v"
+    },
+    {
+      "title": "ma",
+      "subtitle": "application/mathematica"
+    },
+    {
+      "title": "mads",
+      "subtitle": "application/mads+xml"
+    },
+    {
+      "title": "mag",
+      "subtitle": "application/vnd.ecowin.chart"
+    },
+    {
+      "title": "maker",
+      "subtitle": "application/vnd.framemaker"
+    },
+    {
+      "title": "man",
+      "subtitle": "text/troff"
+    },
+    {
+      "title": "mar",
+      "subtitle": "application/octet-stream"
+    },
+    {
+      "title": "mathml",
+      "subtitle": "application/mathml+xml"
+    },
+    {
+      "title": "mb",
+      "subtitle": "application/mathematica"
+    },
+    {
+      "title": "mbk",
+      "subtitle": "application/vnd.mobius.mbk"
+    },
+    {
+      "title": "mbox",
+      "subtitle": "application/mbox"
+    },
+    {
+      "title": "mc1",
+      "subtitle": "application/vnd.medcalcdata"
+    },
+    {
+      "title": "mcd",
+      "subtitle": "application/vnd.mcd"
+    },
+    {
+      "title": "mcurl",
+      "subtitle": "text/vnd.curl.mcurl"
+    },
+    {
+      "title": "mdb",
+      "subtitle": "application/x-msaccess"
+    },
+    {
+      "title": "mdi",
+      "subtitle": "image/vnd.ms-modi"
+    },
+    {
+      "title": "me",
+      "subtitle": "text/troff"
+    },
+    {
+      "title": "mesh",
+      "subtitle": "model/mesh"
+    },
+    {
+      "title": "meta4",
+      "subtitle": "application/metalink4+xml"
+    },
+    {
+      "title": "metalink",
+      "subtitle": "application/metalink+xml"
+    },
+    {
+      "title": "mets",
+      "subtitle": "application/mets+xml"
+    },
+    {
+      "title": "mfm",
+      "subtitle": "application/vnd.mfmp"
+    },
+    {
+      "title": "mft",
+      "subtitle": "application/rpki-manifest"
+    },
+    {
+      "title": "mgp",
+      "subtitle": "application/vnd.osgeo.mapguide.package"
+    },
+    {
+      "title": "mgz",
+      "subtitle": "application/vnd.proteus.magazine"
+    },
+    {
+      "title": "mid",
+      "subtitle": "audio/midi"
+    },
+    {
+      "title": "midi",
+      "subtitle": "audio/midi"
+    },
+    {
+      "title": "mie",
+      "subtitle": "application/x-mie"
+    },
+    {
+      "title": "mif",
+      "subtitle": "application/vnd.mif"
+    },
+    {
+      "title": "mime",
+      "subtitle": "message/rfc822"
+    },
+    {
+      "title": "mj2",
+      "subtitle": "video/mj2"
+    },
+    {
+      "title": "mjp2",
+      "subtitle": "video/mj2"
+    },
+    {
+      "title": "mk3d",
+      "subtitle": "video/x-matroska"
+    },
+    {
+      "title": "mka",
+      "subtitle": "audio/x-matroska"
+    },
+    {
+      "title": "mks",
+      "subtitle": "video/x-matroska"
+    },
+    {
+      "title": "mkv",
+      "subtitle": "video/x-matroska"
+    },
+    {
+      "title": "mlp",
+      "subtitle": "application/vnd.dolby.mlp"
+    },
+    {
+      "title": "mmd",
+      "subtitle": "application/vnd.chipnuts.karaoke-mmd"
+    },
+    {
+      "title": "mmf",
+      "subtitle": "application/vnd.smaf"
+    },
+    {
+      "title": "mmr",
+      "subtitle": "image/vnd.fujixerox.edmics-mmr"
+    },
+    {
+      "title": "mng",
+      "subtitle": "video/x-mng"
+    },
+    {
+      "title": "mny",
+      "subtitle": "application/x-msmoney"
+    },
+    {
+      "title": "mobi",
+      "subtitle": "application/x-mobipocket-ebook"
+    },
+    {
+      "title": "mods",
+      "subtitle": "application/mods+xml"
+    },
+    {
+      "title": "mov",
+      "subtitle": "video/quicktime"
+    },
+    {
+      "title": "movie",
+      "subtitle": "video/x-sgi-movie"
+    },
+    {
+      "title": "mp2",
+      "subtitle": "audio/mpeg"
+    },
+    {
+      "title": "mp21",
+      "subtitle": "application/mp21"
+    },
+    {
+      "title": "mp2a",
+      "subtitle": "audio/mpeg"
+    },
+    {
+      "title": "mp3",
+      "subtitle": "audio/mpeg"
+    },
+    {
+      "title": "mp4",
+      "subtitle": "video/mp4"
+    },
+    {
+      "title": "mp4a",
+      "subtitle": "audio/mp4"
+    },
+    {
+      "title": "mp4s",
+      "subtitle": "application/mp4"
+    },
+    {
+      "title": "mp4v",
+      "subtitle": "video/mp4"
+    },
+    {
+      "title": "mpc",
+      "subtitle": "application/vnd.mophun.certificate"
+    },
+    {
+      "title": "mpe",
+      "subtitle": "video/mpeg"
+    },
+    {
+      "title": "mpeg",
+      "subtitle": "video/mpeg"
+    },
+    {
+      "title": "mpg",
+      "subtitle": "video/mpeg"
+    },
+    {
+      "title": "mpg4",
+      "subtitle": "video/mp4"
+    },
+    {
+      "title": "mpga",
+      "subtitle": "audio/mpeg"
+    },
+    {
+      "title": "mpkg",
+      "subtitle": "application/vnd.apple.installer+xml"
+    },
+    {
+      "title": "mpm",
+      "subtitle": "application/vnd.blueice.multipass"
+    },
+    {
+      "title": "mpn",
+      "subtitle": "application/vnd.mophun.application"
+    },
+    {
+      "title": "mpp",
+      "subtitle": "application/vnd.ms-project"
+    },
+    {
+      "title": "mpt",
+      "subtitle": "application/vnd.ms-project"
+    },
+    {
+      "title": "mpy",
+      "subtitle": "application/vnd.ibm.minipay"
+    },
+    {
+      "title": "mqy",
+      "subtitle": "application/vnd.mobius.mqy"
+    },
+    {
+      "title": "mrc",
+      "subtitle": "application/marc"
+    },
+    {
+      "title": "mrcx",
+      "subtitle": "application/marcxml+xml"
+    },
+    {
+      "title": "ms",
+      "subtitle": "text/troff"
+    },
+    {
+      "title": "mscml",
+      "subtitle": "application/mediaservercontrol+xml"
+    },
+    {
+      "title": "mseed",
+      "subtitle": "application/vnd.fdsn.mseed"
+    },
+    {
+      "title": "mseq",
+      "subtitle": "application/vnd.mseq"
+    },
+    {
+      "title": "msf",
+      "subtitle": "application/vnd.epson.msf"
+    },
+    {
+      "title": "msh",
+      "subtitle": "model/mesh"
+    },
+    {
+      "title": "msi",
+      "subtitle": "application/x-msdownload"
+    },
+    {
+      "title": "msl",
+      "subtitle": "application/vnd.mobius.msl"
+    },
+    {
+      "title": "msty",
+      "subtitle": "application/vnd.muvee.style"
+    },
+    {
+      "title": "mts",
+      "subtitle": "model/vnd.mts"
+    },
+    {
+      "title": "mus",
+      "subtitle": "application/vnd.musician"
+    },
+    {
+      "title": "musicxml",
+      "subtitle": "application/vnd.recordare.musicxml+xml"
+    },
+    {
+      "title": "mvb",
+      "subtitle": "application/x-msmediaview"
+    },
+    {
+      "title": "mwf",
+      "subtitle": "application/vnd.mfer"
+    },
+    {
+      "title": "mxf",
+      "subtitle": "application/mxf"
+    },
+    {
+      "title": "mxl",
+      "subtitle": "application/vnd.recordare.musicxml"
+    },
+    {
+      "title": "mxml",
+      "subtitle": "application/xv+xml"
+    },
+    {
+      "title": "mxs",
+      "subtitle": "application/vnd.triscape.mxs"
+    },
+    {
+      "title": "mxu",
+      "subtitle": "video/vnd.mpegurl"
+    },
+    {
+      "title": "n3",
+      "subtitle": "text/n3"
+    },
+    {
+      "title": "nb",
+      "subtitle": "application/mathematica"
+    },
+    {
+      "title": "nbp",
+      "subtitle": "application/vnd.wolfram.player"
+    },
+    {
+      "title": "nc",
+      "subtitle": "application/x-netcdf"
+    },
+    {
+      "title": "ncx",
+      "subtitle": "application/x-dtbncx+xml"
+    },
+    {
+      "title": "nfo",
+      "subtitle": "text/x-nfo"
+    },
+    {
+      "title": "n-gage",
+      "subtitle": "application/vnd.nokia.n-gage.symbian.install"
+    },
+    {
+      "title": "ngdat",
+      "subtitle": "application/vnd.nokia.n-gage.data"
+    },
+    {
+      "title": "nitf",
+      "subtitle": "application/vnd.nitf"
+    },
+    {
+      "title": "nlu",
+      "subtitle": "application/vnd.neurolanguage.nlu"
+    },
+    {
+      "title": "nml",
+      "subtitle": "application/vnd.enliven"
+    },
+    {
+      "title": "nnd",
+      "subtitle": "application/vnd.noblenet-directory"
+    },
+    {
+      "title": "nns",
+      "subtitle": "application/vnd.noblenet-sealer"
+    },
+    {
+      "title": "nnw",
+      "subtitle": "application/vnd.noblenet-web"
+    },
+    {
+      "title": "npx",
+      "subtitle": "image/vnd.net-fpx"
+    },
+    {
+      "title": "nsc",
+      "subtitle": "application/x-conference"
+    },
+    {
+      "title": "nsf",
+      "subtitle": "application/vnd.lotus-notes"
+    },
+    {
+      "title": "ntf",
+      "subtitle": "application/vnd.nitf"
+    },
+    {
+      "title": "nzb",
+      "subtitle": "application/x-nzb"
+    },
+    {
+      "title": "oa2",
+      "subtitle": "application/vnd.fujitsu.oasys2"
+    },
+    {
+      "title": "oa3",
+      "subtitle": "application/vnd.fujitsu.oasys3"
+    },
+    {
+      "title": "oas",
+      "subtitle": "application/vnd.fujitsu.oasys"
+    },
+    {
+      "title": "obd",
+      "subtitle": "application/x-msbinder"
+    },
+    {
+      "title": "obj",
+      "subtitle": "application/x-tgif"
+    },
+    {
+      "title": "oda",
+      "subtitle": "application/oda"
+    },
+    {
+      "title": "odb",
+      "subtitle": "application/vnd.oasis.opendocument.database"
+    },
+    {
+      "title": "odc",
+      "subtitle": "application/vnd.oasis.opendocument.chart"
+    },
+    {
+      "title": "odf",
+      "subtitle": "application/vnd.oasis.opendocument.formula"
+    },
+    {
+      "title": "odft",
+      "subtitle": "application/vnd.oasis.opendocument.formula-template"
+    },
+    {
+      "title": "odg",
+      "subtitle": "application/vnd.oasis.opendocument.graphics"
+    },
+    {
+      "title": "odi",
+      "subtitle": "application/vnd.oasis.opendocument.image"
+    },
+    {
+      "title": "odm",
+      "subtitle": "application/vnd.oasis.opendocument.text-master"
+    },
+    {
+      "title": "odp",
+      "subtitle": "application/vnd.oasis.opendocument.presentation"
+    },
+    {
+      "title": "ods",
+      "subtitle": "application/vnd.oasis.opendocument.spreadsheet"
+    },
+    {
+      "title": "odt",
+      "subtitle": "application/vnd.oasis.opendocument.text"
+    },
+    {
+      "title": "oga",
+      "subtitle": "audio/ogg"
+    },
+    {
+      "title": "ogg",
+      "subtitle": "audio/ogg"
+    },
+    {
+      "title": "ogv",
+      "subtitle": "video/ogg"
+    },
+    {
+      "title": "ogx",
+      "subtitle": "application/ogg"
+    },
+    {
+      "title": "omdoc",
+      "subtitle": "application/omdoc+xml"
+    },
+    {
+      "title": "onepkg",
+      "subtitle": "application/onenote"
+    },
+    {
+      "title": "onetmp",
+      "subtitle": "application/onenote"
+    },
+    {
+      "title": "onetoc",
+      "subtitle": "application/onenote"
+    },
+    {
+      "title": "onetoc2",
+      "subtitle": "application/onenote"
+    },
+    {
+      "title": "opf",
+      "subtitle": "application/oebps-package+xml"
+    },
+    {
+      "title": "opml",
+      "subtitle": "text/x-opml"
+    },
+    {
+      "title": "oprc",
+      "subtitle": "application/vnd.palm"
+    },
+    {
+      "title": "org",
+      "subtitle": "application/vnd.lotus-organizer"
+    },
+    {
+      "title": "osf",
+      "subtitle": "application/vnd.yamaha.openscoreformat"
+    },
+    {
+      "title": "osfpvg",
+      "subtitle": "application/vnd.yamaha.openscoreformat.osfpvg+xml"
+    },
+    {
+      "title": "otc",
+      "subtitle": "application/vnd.oasis.opendocument.chart-template"
+    },
+    {
+      "title": "otf",
+      "subtitle": "font/otf"
+    },
+    {
+      "title": "otg",
+      "subtitle": "application/vnd.oasis.opendocument.graphics-template"
+    },
+    {
+      "title": "oth",
+      "subtitle": "application/vnd.oasis.opendocument.text-web"
+    },
+    {
+      "title": "oti",
+      "subtitle": "application/vnd.oasis.opendocument.image-template"
+    },
+    {
+      "title": "otp",
+      "subtitle": "application/vnd.oasis.opendocument.presentation-template"
+    },
+    {
+      "title": "ots",
+      "subtitle": "application/vnd.oasis.opendocument.spreadsheet-template"
+    },
+    {
+      "title": "ott",
+      "subtitle": "application/vnd.oasis.opendocument.text-template"
+    },
+    {
+      "title": "oxps",
+      "subtitle": "application/oxps"
+    },
+    {
+      "title": "oxt",
+      "subtitle": "application/vnd.openofficeorg.extension"
+    },
+    {
+      "title": "p",
+      "subtitle": "text/x-pascal"
+    },
+    {
+      "title": "p10",
+      "subtitle": "application/pkcs10"
+    },
+    {
+      "title": "p12",
+      "subtitle": "application/x-pkcs12"
+    },
+    {
+      "title": "p7b",
+      "subtitle": "application/x-pkcs7-certificates"
+    },
+    {
+      "title": "p7c",
+      "subtitle": "application/pkcs7-mime"
+    },
+    {
+      "title": "p7m",
+      "subtitle": "application/pkcs7-mime"
+    },
+    {
+      "title": "p7r",
+      "subtitle": "application/x-pkcs7-certreqresp"
+    },
+    {
+      "title": "p7s",
+      "subtitle": "application/pkcs7-signature"
+    },
+    {
+      "title": "p8",
+      "subtitle": "application/pkcs8"
+    },
+    {
+      "title": "pas",
+      "subtitle": "text/x-pascal"
+    },
+    {
+      "title": "paw",
+      "subtitle": "application/vnd.pawaafile"
+    },
+    {
+      "title": "pbd",
+      "subtitle": "application/vnd.powerbuilder6"
+    },
+    {
+      "title": "pbm",
+      "subtitle": "image/x-portable-bitmap"
+    },
+    {
+      "title": "pcap",
+      "subtitle": "application/vnd.tcpdump.pcap"
+    },
+    {
+      "title": "pcf",
+      "subtitle": "application/x-font-pcf"
+    },
+    {
+      "title": "pcl",
+      "subtitle": "application/vnd.hp-pcl"
+    },
+    {
+      "title": "pclxl",
+      "subtitle": "application/vnd.hp-pclxl"
+    },
+    {
+      "title": "pct",
+      "subtitle": "image/x-pict"
+    },
+    {
+      "title": "pcurl",
+      "subtitle": "application/vnd.curl.pcurl"
+    },
+    {
+      "title": "pcx",
+      "subtitle": "image/x-pcx"
+    },
+    {
+      "title": "pdb",
+      "subtitle": "application/vnd.palm"
+    },
+    {
+      "title": "pdf",
+      "subtitle": "application/pdf"
+    },
+    {
+      "title": "pfa",
+      "subtitle": "application/x-font-type1"
+    },
+    {
+      "title": "pfb",
+      "subtitle": "application/x-font-type1"
+    },
+    {
+      "title": "pfm",
+      "subtitle": "application/x-font-type1"
+    },
+    {
+      "title": "pfr",
+      "subtitle": "application/font-tdpfr"
+    },
+    {
+      "title": "pfx",
+      "subtitle": "application/x-pkcs12"
+    },
+    {
+      "title": "pgm",
+      "subtitle": "image/x-portable-graymap"
+    },
+    {
+      "title": "pgn",
+      "subtitle": "application/x-chess-pgn"
+    },
+    {
+      "title": "pgp",
+      "subtitle": "application/pgp-encrypted"
+    },
+    {
+      "title": "pic",
+      "subtitle": "image/x-pict"
+    },
+    {
+      "title": "pkg",
+      "subtitle": "application/octet-stream"
+    },
+    {
+      "title": "pki",
+      "subtitle": "application/pkixcmp"
+    },
+    {
+      "title": "pkipath",
+      "subtitle": "application/pkix-pkipath"
+    },
+    {
+      "title": "plb",
+      "subtitle": "application/vnd.3gpp.pic-bw-large"
+    },
+    {
+      "title": "plc",
+      "subtitle": "application/vnd.mobius.plc"
+    },
+    {
+      "title": "plf",
+      "subtitle": "application/vnd.pocketlearn"
+    },
+    {
+      "title": "pls",
+      "subtitle": "application/pls+xml"
+    },
+    {
+      "title": "pml",
+      "subtitle": "application/vnd.ctc-posml"
+    },
+    {
+      "title": "png",
+      "subtitle": "image/png"
+    },
+    {
+      "title": "pnm",
+      "subtitle": "image/x-portable-anymap"
+    },
+    {
+      "title": "portpkg",
+      "subtitle": "application/vnd.macports.portpkg"
+    },
+    {
+      "title": "pot",
+      "subtitle": "application/vnd.ms-powerpoint"
+    },
+    {
+      "title": "potm",
+      "subtitle": "application/vnd.ms-powerpoint.template.macroenabled.12"
+    },
+    {
+      "title": "potx",
+      "subtitle": "application/vnd.openxmlformats-officedocument.presentationml.template"
+    },
+    {
+      "title": "ppam",
+      "subtitle": "application/vnd.ms-powerpoint.addin.macroenabled.12"
+    },
+    {
+      "title": "ppd",
+      "subtitle": "application/vnd.cups-ppd"
+    },
+    {
+      "title": "ppm",
+      "subtitle": "image/x-portable-pixmap"
+    },
+    {
+      "title": "pps",
+      "subtitle": "application/vnd.ms-powerpoint"
+    },
+    {
+      "title": "ppsm",
+      "subtitle": "application/vnd.ms-powerpoint.slideshow.macroenabled.12"
+    },
+    {
+      "title": "ppsx",
+      "subtitle": "application/vnd.openxmlformats-officedocument.presentationml.slideshow"
+    },
+    {
+      "title": "ppt",
+      "subtitle": "application/vnd.ms-powerpoint"
+    },
+    {
+      "title": "pptm",
+      "subtitle": "application/vnd.ms-powerpoint.presentation.macroenabled.12"
+    },
+    {
+      "title": "pptx",
+      "subtitle": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+    },
+    {
+      "title": "pqa",
+      "subtitle": "application/vnd.palm"
+    },
+    {
+      "title": "prc",
+      "subtitle": "application/x-mobipocket-ebook"
+    },
+    {
+      "title": "pre",
+      "subtitle": "application/vnd.lotus-freelance"
+    },
+    {
+      "title": "prf",
+      "subtitle": "application/pics-rules"
+    },
+    {
+      "title": "ps",
+      "subtitle": "application/postscript"
+    },
+    {
+      "title": "psb",
+      "subtitle": "application/vnd.3gpp.pic-bw-small"
+    },
+    {
+      "title": "psd",
+      "subtitle": "image/vnd.adobe.photoshop"
+    },
+    {
+      "title": "psf",
+      "subtitle": "application/x-font-linux-psf"
+    },
+    {
+      "title": "pskcxml",
+      "subtitle": "application/pskc+xml"
+    },
+    {
+      "title": "ptid",
+      "subtitle": "application/vnd.pvi.ptid1"
+    },
+    {
+      "title": "pub",
+      "subtitle": "application/x-mspublisher"
+    },
+    {
+      "title": "pvb",
+      "subtitle": "application/vnd.3gpp.pic-bw-var"
+    },
+    {
+      "title": "pwn",
+      "subtitle": "application/vnd.3m.post-it-notes"
+    },
+    {
+      "title": "pya",
+      "subtitle": "audio/vnd.ms-playready.media.pya"
+    },
+    {
+      "title": "pyv",
+      "subtitle": "video/vnd.ms-playready.media.pyv"
+    },
+    {
+      "title": "qam",
+      "subtitle": "application/vnd.epson.quickanime"
+    },
+    {
+      "title": "qbo",
+      "subtitle": "application/vnd.intu.qbo"
+    },
+    {
+      "title": "qfx",
+      "subtitle": "application/vnd.intu.qfx"
+    },
+    {
+      "title": "qps",
+      "subtitle": "application/vnd.publishare-delta-tree"
+    },
+    {
+      "title": "qt",
+      "subtitle": "video/quicktime"
+    },
+    {
+      "title": "qwd",
+      "subtitle": "application/vnd.quark.quarkxpress"
+    },
+    {
+      "title": "qwt",
+      "subtitle": "application/vnd.quark.quarkxpress"
+    },
+    {
+      "title": "qxb",
+      "subtitle": "application/vnd.quark.quarkxpress"
+    },
+    {
+      "title": "qxd",
+      "subtitle": "application/vnd.quark.quarkxpress"
+    },
+    {
+      "title": "qxl",
+      "subtitle": "application/vnd.quark.quarkxpress"
+    },
+    {
+      "title": "qxt",
+      "subtitle": "application/vnd.quark.quarkxpress"
+    },
+    {
+      "title": "ra",
+      "subtitle": "audio/x-pn-realaudio"
+    },
+    {
+      "title": "ram",
+      "subtitle": "audio/x-pn-realaudio"
+    },
+    {
+      "title": "rar",
+      "subtitle": "application/x-rar-compressed"
+    },
+    {
+      "title": "ras",
+      "subtitle": "image/x-cmu-raster"
+    },
+    {
+      "title": "rcprofile",
+      "subtitle": "application/vnd.ipunplugged.rcprofile"
+    },
+    {
+      "title": "rdf",
+      "subtitle": "application/rdf+xml"
+    },
+    {
+      "title": "rdz",
+      "subtitle": "application/vnd.data-vision.rdz"
+    },
+    {
+      "title": "rep",
+      "subtitle": "application/vnd.businessobjects"
+    },
+    {
+      "title": "res",
+      "subtitle": "application/x-dtbresource+xml"
+    },
+    {
+      "title": "rgb",
+      "subtitle": "image/x-rgb"
+    },
+    {
+      "title": "rif",
+      "subtitle": "application/reginfo+xml"
+    },
+    {
+      "title": "rip",
+      "subtitle": "audio/vnd.rip"
+    },
+    {
+      "title": "ris",
+      "subtitle": "application/x-research-info-systems"
+    },
+    {
+      "title": "rl",
+      "subtitle": "application/resource-lists+xml"
+    },
+    {
+      "title": "rlc",
+      "subtitle": "image/vnd.fujixerox.edmics-rlc"
+    },
+    {
+      "title": "rld",
+      "subtitle": "application/resource-lists-diff+xml"
+    },
+    {
+      "title": "rm",
+      "subtitle": "application/vnd.rn-realmedia"
+    },
+    {
+      "title": "rmi",
+      "subtitle": "audio/midi"
+    },
+    {
+      "title": "rmp",
+      "subtitle": "audio/x-pn-realaudio-plugin"
+    },
+    {
+      "title": "rms",
+      "subtitle": "application/vnd.jcp.javame.midlet-rms"
+    },
+    {
+      "title": "rmvb",
+      "subtitle": "application/vnd.rn-realmedia-vbr"
+    },
+    {
+      "title": "rnc",
+      "subtitle": "application/relax-ng-compact-syntax"
+    },
+    {
+      "title": "roa",
+      "subtitle": "application/rpki-roa"
+    },
+    {
+      "title": "roff",
+      "subtitle": "text/troff"
+    },
+    {
+      "title": "rp9",
+      "subtitle": "application/vnd.cloanto.rp9"
+    },
+    {
+      "title": "rpss",
+      "subtitle": "application/vnd.nokia.radio-presets"
+    },
+    {
+      "title": "rpst",
+      "subtitle": "application/vnd.nokia.radio-preset"
+    },
+    {
+      "title": "rq",
+      "subtitle": "application/sparql-query"
+    },
+    {
+      "title": "rs",
+      "subtitle": "application/rls-services+xml"
+    },
+    {
+      "title": "rsd",
+      "subtitle": "application/rsd+xml"
+    },
+    {
+      "title": "rss",
+      "subtitle": "application/rss+xml"
+    },
+    {
+      "title": "rtf",
+      "subtitle": "application/rtf"
+    },
+    {
+      "title": "rtx",
+      "subtitle": "text/richtext"
+    },
+    {
+      "title": "s",
+      "subtitle": "text/x-asm"
+    },
+    {
+      "title": "s3m",
+      "subtitle": "audio/s3m"
+    },
+    {
+      "title": "saf",
+      "subtitle": "application/vnd.yamaha.smaf-audio"
+    },
+    {
+      "title": "sbml",
+      "subtitle": "application/sbml+xml"
+    },
+    {
+      "title": "sc",
+      "subtitle": "application/vnd.ibm.secure-container"
+    },
+    {
+      "title": "scd",
+      "subtitle": "application/x-msschedule"
+    },
+    {
+      "title": "scm",
+      "subtitle": "application/vnd.lotus-screencam"
+    },
+    {
+      "title": "scq",
+      "subtitle": "application/scvp-cv-request"
+    },
+    {
+      "title": "scs",
+      "subtitle": "application/scvp-cv-response"
+    },
+    {
+      "title": "scurl",
+      "subtitle": "text/vnd.curl.scurl"
+    },
+    {
+      "title": "sda",
+      "subtitle": "application/vnd.stardivision.draw"
+    },
+    {
+      "title": "sdc",
+      "subtitle": "application/vnd.stardivision.calc"
+    },
+    {
+      "title": "sdd",
+      "subtitle": "application/vnd.stardivision.impress"
+    },
+    {
+      "title": "sdkd",
+      "subtitle": "application/vnd.solent.sdkm+xml"
+    },
+    {
+      "title": "sdkm",
+      "subtitle": "application/vnd.solent.sdkm+xml"
+    },
+    {
+      "title": "sdp",
+      "subtitle": "application/sdp"
+    },
+    {
+      "title": "sdw",
+      "subtitle": "application/vnd.stardivision.writer"
+    },
+    {
+      "title": "see",
+      "subtitle": "application/vnd.seemail"
+    },
+    {
+      "title": "seed",
+      "subtitle": "application/vnd.fdsn.seed"
+    },
+    {
+      "title": "sema",
+      "subtitle": "application/vnd.sema"
+    },
+    {
+      "title": "semd",
+      "subtitle": "application/vnd.semd"
+    },
+    {
+      "title": "semf",
+      "subtitle": "application/vnd.semf"
+    },
+    {
+      "title": "ser",
+      "subtitle": "application/java-serialized-object"
+    },
+    {
+      "title": "setpay",
+      "subtitle": "application/set-payment-initiation"
+    },
+    {
+      "title": "setreg",
+      "subtitle": "application/set-registration-initiation"
+    },
+    {
+      "title": "sfd-hdstx",
+      "subtitle": "application/vnd.hydrostatix.sof-data"
+    },
+    {
+      "title": "sfs",
+      "subtitle": "application/vnd.spotfire.sfs"
+    },
+    {
+      "title": "sfv",
+      "subtitle": "text/x-sfv"
+    },
+    {
+      "title": "sgi",
+      "subtitle": "image/sgi"
+    },
+    {
+      "title": "sgl",
+      "subtitle": "application/vnd.stardivision.writer-global"
+    },
+    {
+      "title": "sgm",
+      "subtitle": "text/sgml"
+    },
+    {
+      "title": "sgml",
+      "subtitle": "text/sgml"
+    },
+    {
+      "title": "sh",
+      "subtitle": "application/x-sh"
+    },
+    {
+      "title": "shar",
+      "subtitle": "application/x-shar"
+    },
+    {
+      "title": "shf",
+      "subtitle": "application/shf+xml"
+    },
+    {
+      "title": "sid",
+      "subtitle": "image/x-mrsid-image"
+    },
+    {
+      "title": "sig",
+      "subtitle": "application/pgp-signature"
+    },
+    {
+      "title": "sil",
+      "subtitle": "audio/silk"
+    },
+    {
+      "title": "silo",
+      "subtitle": "model/mesh"
+    },
+    {
+      "title": "sis",
+      "subtitle": "application/vnd.symbian.install"
+    },
+    {
+      "title": "sisx",
+      "subtitle": "application/vnd.symbian.install"
+    },
+    {
+      "title": "sit",
+      "subtitle": "application/x-stuffit"
+    },
+    {
+      "title": "sitx",
+      "subtitle": "application/x-stuffitx"
+    },
+    {
+      "title": "skd",
+      "subtitle": "application/vnd.koan"
+    },
+    {
+      "title": "skm",
+      "subtitle": "application/vnd.koan"
+    },
+    {
+      "title": "skp",
+      "subtitle": "application/vnd.koan"
+    },
+    {
+      "title": "skt",
+      "subtitle": "application/vnd.koan"
+    },
+    {
+      "title": "sldm",
+      "subtitle": "application/vnd.ms-powerpoint.slide.macroenabled.12"
+    },
+    {
+      "title": "sldx",
+      "subtitle": "application/vnd.openxmlformats-officedocument.presentationml.slide"
+    },
+    {
+      "title": "slt",
+      "subtitle": "application/vnd.epson.salt"
+    },
+    {
+      "title": "sm",
+      "subtitle": "application/vnd.stepmania.stepchart"
+    },
+    {
+      "title": "smf",
+      "subtitle": "application/vnd.stardivision.math"
+    },
+    {
+      "title": "smi",
+      "subtitle": "application/smil+xml"
+    },
+    {
+      "title": "smil",
+      "subtitle": "application/smil+xml"
+    },
+    {
+      "title": "smv",
+      "subtitle": "video/x-smv"
+    },
+    {
+      "title": "smzip",
+      "subtitle": "application/vnd.stepmania.package"
+    },
+    {
+      "title": "snd",
+      "subtitle": "audio/basic"
+    },
+    {
+      "title": "snf",
+      "subtitle": "application/x-font-snf"
+    },
+    {
+      "title": "so",
+      "subtitle": "application/octet-stream"
+    },
+    {
+      "title": "spc",
+      "subtitle": "application/x-pkcs7-certificates"
+    },
+    {
+      "title": "spf",
+      "subtitle": "application/vnd.yamaha.smaf-phrase"
+    },
+    {
+      "title": "spl",
+      "subtitle": "application/x-futuresplash"
+    },
+    {
+      "title": "spot",
+      "subtitle": "text/vnd.in3d.spot"
+    },
+    {
+      "title": "spp",
+      "subtitle": "application/scvp-vp-response"
+    },
+    {
+      "title": "spq",
+      "subtitle": "application/scvp-vp-request"
+    },
+    {
+      "title": "spx",
+      "subtitle": "audio/ogg"
+    },
+    {
+      "title": "sql",
+      "subtitle": "application/x-sql"
+    },
+    {
+      "title": "src",
+      "subtitle": "application/x-wais-source"
+    },
+    {
+      "title": "srt",
+      "subtitle": "application/x-subrip"
+    },
+    {
+      "title": "sru",
+      "subtitle": "application/sru+xml"
+    },
+    {
+      "title": "srx",
+      "subtitle": "application/sparql-results+xml"
+    },
+    {
+      "title": "ssdl",
+      "subtitle": "application/ssdl+xml"
+    },
+    {
+      "title": "sse",
+      "subtitle": "application/vnd.kodak-descriptor"
+    },
+    {
+      "title": "ssf",
+      "subtitle": "application/vnd.epson.ssf"
+    },
+    {
+      "title": "ssml",
+      "subtitle": "application/ssml+xml"
+    },
+    {
+      "title": "st",
+      "subtitle": "application/vnd.sailingtracker.track"
+    },
+    {
+      "title": "stc",
+      "subtitle": "application/vnd.sun.xml.calc.template"
+    },
+    {
+      "title": "std",
+      "subtitle": "application/vnd.sun.xml.draw.template"
+    },
+    {
+      "title": "stf",
+      "subtitle": "application/vnd.wt.stf"
+    },
+    {
+      "title": "sti",
+      "subtitle": "application/vnd.sun.xml.impress.template"
+    },
+    {
+      "title": "stk",
+      "subtitle": "application/hyperstudio"
+    },
+    {
+      "title": "stl",
+      "subtitle": "application/vnd.ms-pki.stl"
+    },
+    {
+      "title": "str",
+      "subtitle": "application/vnd.pg.format"
+    },
+    {
+      "title": "stw",
+      "subtitle": "application/vnd.sun.xml.writer.template"
+    },
+    {
+      "title": "sus",
+      "subtitle": "application/vnd.sus-calendar"
+    },
+    {
+      "title": "susp",
+      "subtitle": "application/vnd.sus-calendar"
+    },
+    {
+      "title": "sv4cpio",
+      "subtitle": "application/x-sv4cpio"
+    },
+    {
+      "title": "sv4crc",
+      "subtitle": "application/x-sv4crc"
+    },
+    {
+      "title": "svc",
+      "subtitle": "application/vnd.dvb.service"
+    },
+    {
+      "title": "svd",
+      "subtitle": "application/vnd.svd"
+    },
+    {
+      "title": "svg",
+      "subtitle": "image/svg+xml"
+    },
+    {
+      "title": "svgz",
+      "subtitle": "image/svg+xml"
+    },
+    {
+      "title": "swa",
+      "subtitle": "application/x-director"
+    },
+    {
+      "title": "swf",
+      "subtitle": "application/x-shockwave-flash"
+    },
+    {
+      "title": "swi",
+      "subtitle": "application/vnd.aristanetworks.swi"
+    },
+    {
+      "title": "sxc",
+      "subtitle": "application/vnd.sun.xml.calc"
+    },
+    {
+      "title": "sxd",
+      "subtitle": "application/vnd.sun.xml.draw"
+    },
+    {
+      "title": "sxg",
+      "subtitle": "application/vnd.sun.xml.writer.global"
+    },
+    {
+      "title": "sxi",
+      "subtitle": "application/vnd.sun.xml.impress"
+    },
+    {
+      "title": "sxm",
+      "subtitle": "application/vnd.sun.xml.math"
+    },
+    {
+      "title": "sxw",
+      "subtitle": "application/vnd.sun.xml.writer"
+    },
+    {
+      "title": "t",
+      "subtitle": "text/troff"
+    },
+    {
+      "title": "t3",
+      "subtitle": "application/x-t3vm-image"
+    },
+    {
+      "title": "taglet",
+      "subtitle": "application/vnd.mynfc"
+    },
+    {
+      "title": "tao",
+      "subtitle": "application/vnd.tao.intent-module-archive"
+    },
+    {
+      "title": "tar",
+      "subtitle": "application/x-tar"
+    },
+    {
+      "title": "tcap",
+      "subtitle": "application/vnd.3gpp2.tcap"
+    },
+    {
+      "title": "tcl",
+      "subtitle": "application/x-tcl"
+    },
+    {
+      "title": "teacher",
+      "subtitle": "application/vnd.smart.teacher"
+    },
+    {
+      "title": "tei",
+      "subtitle": "application/tei+xml"
+    },
+    {
+      "title": "teicorpus",
+      "subtitle": "application/tei+xml"
+    },
+    {
+      "title": "tex",
+      "subtitle": "application/x-tex"
+    },
+    {
+      "title": "texi",
+      "subtitle": "application/x-texinfo"
+    },
+    {
+      "title": "texinfo",
+      "subtitle": "application/x-texinfo"
+    },
+    {
+      "title": "text",
+      "subtitle": "text/plain"
+    },
+    {
+      "title": "tfi",
+      "subtitle": "application/thraud+xml"
+    },
+    {
+      "title": "tfm",
+      "subtitle": "application/x-tex-tfm"
+    },
+    {
+      "title": "tga",
+      "subtitle": "image/x-tga"
+    },
+    {
+      "title": "thmx",
+      "subtitle": "application/vnd.ms-officetheme"
+    },
+    {
+      "title": "tif",
+      "subtitle": "image/tiff"
+    },
+    {
+      "title": "tiff",
+      "subtitle": "image/tiff"
+    },
+    {
+      "title": "tmo",
+      "subtitle": "application/vnd.tmobile-livetv"
+    },
+    {
+      "title": "torrent",
+      "subtitle": "application/x-bittorrent"
+    },
+    {
+      "title": "tpl",
+      "subtitle": "application/vnd.groove-tool-template"
+    },
+    {
+      "title": "tpt",
+      "subtitle": "application/vnd.trid.tpt"
+    },
+    {
+      "title": "tr",
+      "subtitle": "text/troff"
+    },
+    {
+      "title": "tra",
+      "subtitle": "application/vnd.trueapp"
+    },
+    {
+      "title": "trm",
+      "subtitle": "application/x-msterminal"
+    },
+    {
+      "title": "tsd",
+      "subtitle": "application/timestamped-data"
+    },
+    {
+      "title": "tsv",
+      "subtitle": "text/tab-separated-values"
+    },
+    {
+      "title": "ttc",
+      "subtitle": "font/collection"
+    },
+    {
+      "title": "ttf",
+      "subtitle": "font/ttf"
+    },
+    {
+      "title": "ttl",
+      "subtitle": "text/turtle"
+    },
+    {
+      "title": "twd",
+      "subtitle": "application/vnd.simtech-mindmapper"
+    },
+    {
+      "title": "twds",
+      "subtitle": "application/vnd.simtech-mindmapper"
+    },
+    {
+      "title": "txd",
+      "subtitle": "application/vnd.genomatix.tuxedo"
+    },
+    {
+      "title": "txf",
+      "subtitle": "application/vnd.mobius.txf"
+    },
+    {
+      "title": "txt",
+      "subtitle": "text/plain"
+    },
+    {
+      "title": "u32",
+      "subtitle": "application/x-authorware-bin"
+    },
+    {
+      "title": "udeb",
+      "subtitle": "application/x-debian-package"
+    },
+    {
+      "title": "ufd",
+      "subtitle": "application/vnd.ufdl"
+    },
+    {
+      "title": "ufdl",
+      "subtitle": "application/vnd.ufdl"
+    },
+    {
+      "title": "ulx",
+      "subtitle": "application/x-glulx"
+    },
+    {
+      "title": "umj",
+      "subtitle": "application/vnd.umajin"
+    },
+    {
+      "title": "unityweb",
+      "subtitle": "application/vnd.unity"
+    },
+    {
+      "title": "uoml",
+      "subtitle": "application/vnd.uoml+xml"
+    },
+    {
+      "title": "uri",
+      "subtitle": "text/uri-list"
+    },
+    {
+      "title": "uris",
+      "subtitle": "text/uri-list"
+    },
+    {
+      "title": "urls",
+      "subtitle": "text/uri-list"
+    },
+    {
+      "title": "ustar",
+      "subtitle": "application/x-ustar"
+    },
+    {
+      "title": "utz",
+      "subtitle": "application/vnd.uiq.theme"
+    },
+    {
+      "title": "uu",
+      "subtitle": "text/x-uuencode"
+    },
+    {
+      "title": "uva",
+      "subtitle": "audio/vnd.dece.audio"
+    },
+    {
+      "title": "uvd",
+      "subtitle": "application/vnd.dece.data"
+    },
+    {
+      "title": "uvf",
+      "subtitle": "application/vnd.dece.data"
+    },
+    {
+      "title": "uvg",
+      "subtitle": "image/vnd.dece.graphic"
+    },
+    {
+      "title": "uvh",
+      "subtitle": "video/vnd.dece.hd"
+    },
+    {
+      "title": "uvi",
+      "subtitle": "image/vnd.dece.graphic"
+    },
+    {
+      "title": "uvm",
+      "subtitle": "video/vnd.dece.mobile"
+    },
+    {
+      "title": "uvp",
+      "subtitle": "video/vnd.dece.pd"
+    },
+    {
+      "title": "uvs",
+      "subtitle": "video/vnd.dece.sd"
+    },
+    {
+      "title": "uvt",
+      "subtitle": "application/vnd.dece.ttml+xml"
+    },
+    {
+      "title": "uvu",
+      "subtitle": "video/vnd.uvvu.mp4"
+    },
+    {
+      "title": "uvv",
+      "subtitle": "video/vnd.dece.video"
+    },
+    {
+      "title": "uvva",
+      "subtitle": "audio/vnd.dece.audio"
+    },
+    {
+      "title": "uvvd",
+      "subtitle": "application/vnd.dece.data"
+    },
+    {
+      "title": "uvvf",
+      "subtitle": "application/vnd.dece.data"
+    },
+    {
+      "title": "uvvg",
+      "subtitle": "image/vnd.dece.graphic"
+    },
+    {
+      "title": "uvvh",
+      "subtitle": "video/vnd.dece.hd"
+    },
+    {
+      "title": "uvvi",
+      "subtitle": "image/vnd.dece.graphic"
+    },
+    {
+      "title": "uvvm",
+      "subtitle": "video/vnd.dece.mobile"
+    },
+    {
+      "title": "uvvp",
+      "subtitle": "video/vnd.dece.pd"
+    },
+    {
+      "title": "uvvs",
+      "subtitle": "video/vnd.dece.sd"
+    },
+    {
+      "title": "uvvt",
+      "subtitle": "application/vnd.dece.ttml+xml"
+    },
+    {
+      "title": "uvvu",
+      "subtitle": "video/vnd.uvvu.mp4"
+    },
+    {
+      "title": "uvvv",
+      "subtitle": "video/vnd.dece.video"
+    },
+    {
+      "title": "uvvx",
+      "subtitle": "application/vnd.dece.unspecified"
+    },
+    {
+      "title": "uvvz",
+      "subtitle": "application/vnd.dece.zip"
+    },
+    {
+      "title": "uvx",
+      "subtitle": "application/vnd.dece.unspecified"
+    },
+    {
+      "title": "uvz",
+      "subtitle": "application/vnd.dece.zip"
+    },
+    {
+      "title": "vcard",
+      "subtitle": "text/vcard"
+    },
+    {
+      "title": "vcd",
+      "subtitle": "application/x-cdlink"
+    },
+    {
+      "title": "vcf",
+      "subtitle": "text/x-vcard"
+    },
+    {
+      "title": "vcg",
+      "subtitle": "application/vnd.groove-vcard"
+    },
+    {
+      "title": "vcs",
+      "subtitle": "text/x-vcalendar"
+    },
+    {
+      "title": "vcx",
+      "subtitle": "application/vnd.vcx"
+    },
+    {
+      "title": "vis",
+      "subtitle": "application/vnd.visionary"
+    },
+    {
+      "title": "viv",
+      "subtitle": "video/vnd.vivo"
+    },
+    {
+      "title": "vob",
+      "subtitle": "video/x-ms-vob"
+    },
+    {
+      "title": "vor",
+      "subtitle": "application/vnd.stardivision.writer"
+    },
+    {
+      "title": "vox",
+      "subtitle": "application/x-authorware-bin"
+    },
+    {
+      "title": "vrml",
+      "subtitle": "model/vrml"
+    },
+    {
+      "title": "vsd",
+      "subtitle": "application/vnd.visio"
+    },
+    {
+      "title": "vsf",
+      "subtitle": "application/vnd.vsf"
+    },
+    {
+      "title": "vss",
+      "subtitle": "application/vnd.visio"
+    },
+    {
+      "title": "vst",
+      "subtitle": "application/vnd.visio"
+    },
+    {
+      "title": "vsw",
+      "subtitle": "application/vnd.visio"
+    },
+    {
+      "title": "vtu",
+      "subtitle": "model/vnd.vtu"
+    },
+    {
+      "title": "vxml",
+      "subtitle": "application/voicexml+xml"
+    },
+    {
+      "title": "w3d",
+      "subtitle": "application/x-director"
+    },
+    {
+      "title": "wad",
+      "subtitle": "application/x-doom"
+    },
+    {
+      "title": "wav",
+      "subtitle": "audio/x-wav"
+    },
+    {
+      "title": "wax",
+      "subtitle": "audio/x-ms-wax"
+    },
+    {
+      "title": "wbmp",
+      "subtitle": "image/vnd.wap.wbmp"
+    },
+    {
+      "title": "wbs",
+      "subtitle": "application/vnd.criticaltools.wbs+xml"
+    },
+    {
+      "title": "wbxml",
+      "subtitle": "application/vnd.wap.wbxml"
+    },
+    {
+      "title": "wcm",
+      "subtitle": "application/vnd.ms-works"
+    },
+    {
+      "title": "wdb",
+      "subtitle": "application/vnd.ms-works"
+    },
+    {
+      "title": "wdp",
+      "subtitle": "image/vnd.ms-photo"
+    },
+    {
+      "title": "weba",
+      "subtitle": "audio/webm"
+    },
+    {
+      "title": "webm",
+      "subtitle": "video/webm"
+    },
+    {
+      "title": "webp",
+      "subtitle": "image/webp"
+    },
+    {
+      "title": "wg",
+      "subtitle": "application/vnd.pmi.widget"
+    },
+    {
+      "title": "wgt",
+      "subtitle": "application/widget"
+    },
+    {
+      "title": "wks",
+      "subtitle": "application/vnd.ms-works"
+    },
+    {
+      "title": "wm",
+      "subtitle": "video/x-ms-wm"
+    },
+    {
+      "title": "wma",
+      "subtitle": "audio/x-ms-wma"
+    },
+    {
+      "title": "wmd",
+      "subtitle": "application/x-ms-wmd"
+    },
+    {
+      "title": "wmf",
+      "subtitle": "application/x-msmetafile"
+    },
+    {
+      "title": "wml",
+      "subtitle": "text/vnd.wap.wml"
+    },
+    {
+      "title": "wmlc",
+      "subtitle": "application/vnd.wap.wmlc"
+    },
+    {
+      "title": "wmls",
+      "subtitle": "text/vnd.wap.wmlscript"
+    },
+    {
+      "title": "wmlsc",
+      "subtitle": "application/vnd.wap.wmlscriptc"
+    },
+    {
+      "title": "wmv",
+      "subtitle": "video/x-ms-wmv"
+    },
+    {
+      "title": "wmx",
+      "subtitle": "video/x-ms-wmx"
+    },
+    {
+      "title": "woff",
+      "subtitle": "font/woff"
+    },
+    {
+      "title": "woff2",
+      "subtitle": "font/woff2"
+    },
+    {
+      "title": "wpd",
+      "subtitle": "application/vnd.wordperfect"
+    },
+    {
+      "title": "wpl",
+      "subtitle": "application/vnd.ms-wpl"
+    },
+    {
+      "title": "wps",
+      "subtitle": "application/vnd.ms-works"
+    },
+    {
+      "title": "wqd",
+      "subtitle": "application/vnd.wqd"
+    },
+    {
+      "title": "wri",
+      "subtitle": "application/x-mswrite"
+    },
+    {
+      "title": "wrl",
+      "subtitle": "model/vrml"
+    },
+    {
+      "title": "wsdl",
+      "subtitle": "application/wsdl+xml"
+    },
+    {
+      "title": "wspolicy",
+      "subtitle": "application/wspolicy+xml"
+    },
+    {
+      "title": "wtb",
+      "subtitle": "application/vnd.webturbo"
+    },
+    {
+      "title": "wvx",
+      "subtitle": "video/x-ms-wvx"
+    },
+    {
+      "title": "x32",
+      "subtitle": "application/x-authorware-bin"
+    },
+    {
+      "title": "x3d",
+      "subtitle": "model/x3d+xml"
+    },
+    {
+      "title": "x3db",
+      "subtitle": "model/x3d+binary"
+    },
+    {
+      "title": "x3dbz",
+      "subtitle": "model/x3d+binary"
+    },
+    {
+      "title": "x3dv",
+      "subtitle": "model/x3d+vrml"
+    },
+    {
+      "title": "x3dvz",
+      "subtitle": "model/x3d+vrml"
+    },
+    {
+      "title": "x3dz",
+      "subtitle": "model/x3d+xml"
+    },
+    {
+      "title": "xaml",
+      "subtitle": "application/xaml+xml"
+    },
+    {
+      "title": "xap",
+      "subtitle": "application/x-silverlight-app"
+    },
+    {
+      "title": "xar",
+      "subtitle": "application/vnd.xara"
+    },
+    {
+      "title": "xbap",
+      "subtitle": "application/x-ms-xbap"
+    },
+    {
+      "title": "xbd",
+      "subtitle": "application/vnd.fujixerox.docuworks.binder"
+    },
+    {
+      "title": "xbm",
+      "subtitle": "image/x-xbitmap"
+    },
+    {
+      "title": "xdf",
+      "subtitle": "application/xcap-diff+xml"
+    },
+    {
+      "title": "xdm",
+      "subtitle": "application/vnd.syncml.dm+xml"
+    },
+    {
+      "title": "xdp",
+      "subtitle": "application/vnd.adobe.xdp+xml"
+    },
+    {
+      "title": "xdssc",
+      "subtitle": "application/dssc+xml"
+    },
+    {
+      "title": "xdw",
+      "subtitle": "application/vnd.fujixerox.docuworks"
+    },
+    {
+      "title": "xenc",
+      "subtitle": "application/xenc+xml"
+    },
+    {
+      "title": "xer",
+      "subtitle": "application/patch-ops-error+xml"
+    },
+    {
+      "title": "xfdf",
+      "subtitle": "application/vnd.adobe.xfdf"
+    },
+    {
+      "title": "xfdl",
+      "subtitle": "application/vnd.xfdl"
+    },
+    {
+      "title": "xht",
+      "subtitle": "application/xhtml+xml"
+    },
+    {
+      "title": "xhtml",
+      "subtitle": "application/xhtml+xml"
+    },
+    {
+      "title": "xhvml",
+      "subtitle": "application/xv+xml"
+    },
+    {
+      "title": "xif",
+      "subtitle": "image/vnd.xiff"
+    },
+    {
+      "title": "xla",
+      "subtitle": "application/vnd.ms-excel"
+    },
+    {
+      "title": "xlam",
+      "subtitle": "application/vnd.ms-excel.addin.macroenabled.12"
+    },
+    {
+      "title": "xlc",
+      "subtitle": "application/vnd.ms-excel"
+    },
+    {
+      "title": "xlf",
+      "subtitle": "application/x-xliff+xml"
+    },
+    {
+      "title": "xlm",
+      "subtitle": "application/vnd.ms-excel"
+    },
+    {
+      "title": "xls",
+      "subtitle": "application/vnd.ms-excel"
+    },
+    {
+      "title": "xlsb",
+      "subtitle": "application/vnd.ms-excel.sheet.binary.macroenabled.12"
+    },
+    {
+      "title": "xlsm",
+      "subtitle": "application/vnd.ms-excel.sheet.macroenabled.12"
+    },
+    {
+      "title": "xlsx",
+      "subtitle": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "title": "xlt",
+      "subtitle": "application/vnd.ms-excel"
+    },
+    {
+      "title": "xltm",
+      "subtitle": "application/vnd.ms-excel.template.macroenabled.12"
+    },
+    {
+      "title": "xltx",
+      "subtitle": "application/vnd.openxmlformats-officedocument.spreadsheetml.template"
+    },
+    {
+      "title": "xlw",
+      "subtitle": "application/vnd.ms-excel"
+    },
+    {
+      "title": "xm",
+      "subtitle": "audio/xm"
+    },
+    {
+      "title": "xml",
+      "subtitle": "application/xml"
+    },
+    {
+      "title": "xo",
+      "subtitle": "application/vnd.olpc-sugar"
+    },
+    {
+      "title": "xop",
+      "subtitle": "application/xop+xml"
+    },
+    {
+      "title": "xpi",
+      "subtitle": "application/x-xpinstall"
+    },
+    {
+      "title": "xpl",
+      "subtitle": "application/xproc+xml"
+    },
+    {
+      "title": "xpm",
+      "subtitle": "image/x-xpixmap"
+    },
+    {
+      "title": "xpr",
+      "subtitle": "application/vnd.is-xpr"
+    },
+    {
+      "title": "xps",
+      "subtitle": "application/vnd.ms-xpsdocument"
+    },
+    {
+      "title": "xpw",
+      "subtitle": "application/vnd.intercon.formnet"
+    },
+    {
+      "title": "xpx",
+      "subtitle": "application/vnd.intercon.formnet"
+    },
+    {
+      "title": "xsl",
+      "subtitle": "application/xml"
+    },
+    {
+      "title": "xslt",
+      "subtitle": "application/xslt+xml"
+    },
+    {
+      "title": "xsm",
+      "subtitle": "application/vnd.syncml+xml"
+    },
+    {
+      "title": "xspf",
+      "subtitle": "application/xspf+xml"
+    },
+    {
+      "title": "xul",
+      "subtitle": "application/vnd.mozilla.xul+xml"
+    },
+    {
+      "title": "xvm",
+      "subtitle": "application/xv+xml"
+    },
+    {
+      "title": "xvml",
+      "subtitle": "application/xv+xml"
+    },
+    {
+      "title": "xwd",
+      "subtitle": "image/x-xwindowdump"
+    },
+    {
+      "title": "xyz",
+      "subtitle": "chemical/x-xyz"
+    },
+    {
+      "title": "xz",
+      "subtitle": "application/x-xz"
+    },
+    {
+      "title": "yang",
+      "subtitle": "application/yang"
+    },
+    {
+      "title": "yin",
+      "subtitle": "application/yin+xml"
+    },
+    {
+      "title": "z1",
+      "subtitle": "application/x-zmachine"
+    },
+    {
+      "title": "z2",
+      "subtitle": "application/x-zmachine"
+    },
+    {
+      "title": "z3",
+      "subtitle": "application/x-zmachine"
+    },
+    {
+      "title": "z4",
+      "subtitle": "application/x-zmachine"
+    },
+    {
+      "title": "z5",
+      "subtitle": "application/x-zmachine"
+    },
+    {
+      "title": "z6",
+      "subtitle": "application/x-zmachine"
+    },
+    {
+      "title": "z7",
+      "subtitle": "application/x-zmachine"
+    },
+    {
+      "title": "z8",
+      "subtitle": "application/x-zmachine"
+    },
+    {
+      "title": "zaz",
+      "subtitle": "application/vnd.zzazz.deck+xml"
+    },
+    {
+      "title": "zip",
+      "subtitle": "application/zip"
+    },
+    {
+      "title": "zir",
+      "subtitle": "application/vnd.zul"
+    },
+    {
+      "title": "zirz",
+      "subtitle": "application/vnd.zul"
+    },
+    {
+      "title": "zmm",
+      "subtitle": "application/vnd.handheld-entertainment+xml"
+    }
+  ]
+}
